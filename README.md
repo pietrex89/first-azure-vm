@@ -18,13 +18,13 @@ This project demonstrates the creation and basic configuration of my firt Virtua
 ## Screenshots
 
 ### Creating the Virtual Machine
-![VM Creation](images/vm-creation1.png)
-![VM Creation](images/vm-creation2.png)
+![VM Creation](images/vm_creation1.png)
+![VM Creation](images/vm_creation2.png)
 
 ### Azure VM Overview
-![VM Overview](images/vm-overview1.png)
-![VM Overview](images/vm-overview2.png)
+![VM Overview](images/vm_overview1.png)
+![VM Overview](images/vm_overview2.png)
 
 ### SSH Connection
-![SSH](images/ssh-connection1.png)
-![SSH](images/ssh-connection2.png)
+![SSH](images/ssh_connection1.png)
+![SSH](images/ssh_connection2.png)
