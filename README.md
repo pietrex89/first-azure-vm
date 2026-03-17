@@ -1,21 +1,20 @@
-# Project 
+# 🚀 Project 
 First Azure Virtual Machine
 
-## Description
-This project demonstrates the creation and basic configuration of my firt Virtual Machine in Microsoft Azure
+## 📌 Description
+This project demonstrates the creation and basic configuration of my first Virtual Machine in Microsoft Azure
 
-## What I did
-- Created a Virtual Machine in Azure
+## 🛠️ What I did
+- Created VM in Azure
 - Configured networking and public IP
-- Connected to the VM using SSh
+- Connected via SSH
 
-## Technologies
+## ⚙️ Technologies
 - Microsoft Azure
-- Virtual Machines
 - Ubuntu Linux
 - SSH
 
-## Screenshots
+## 📸 Screenshots
 
 ### Creating the Virtual Machine
 ![VM Creation](images/vm_creation1.png)
@@ -28,3 +27,9 @@ This project demonstrates the creation and basic configuration of my firt Virtua
 ### SSH Connection
 ![SSH](images/ssh_connection1.png)
 ![SSH](images/ssh_connection2.png)
+
+## 💡 What I learned
+- How to create and configure a VM in Azure
+- Basics of Azure networking and public IP
+- Secure remote connection via SSH
+- Best practices in organizing Azure projects
